@@ -28,10 +28,16 @@ Once the dashboard is set up, you can interact with the visualizations by:
 - Exploring real-time search trends across different regions using the interactive globe.
 - Identifying rising keywords related to each job role and their impact on the overall search trends.
 
+## Dashboard Access
 
-## Contact
-For any questions or issues, feel free to reach out at [abinesavio@gmail.com].
+### Live Dashboard
+You can interact with the live version of the Power BI dashboard through the following link:
+
+[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAzOGYzNmItNTQ5Mi00YzljLWE1Y2YtOTAwNDU1YTE3Yzc5IiwidCI6ImE5NmMxNTJkLTc3NjctNDViYi04YWFiLTJiMWQ4OTg3Yjg2YyJ9)
+
 
 ## Dashboard PDF
 A PDF version of the Power BI dashboard is available for download. This file provides a snapshot of the dashboard with all the key visualizations and insights included.
 
+## Contact
+For any questions or issues, feel free to reach out at [abinesavio@gmail.com].
